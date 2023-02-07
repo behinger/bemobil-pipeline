@@ -37,3 +37,6 @@ The pipeline has more functionalities than this, so don't forget to check out [o
 
 ***
 If you have any comments, questions, or suggestions, please [open issues on git](https://github.com/BeMoBIL/bemobil-pipeline/issues), join our [discord server](https://discord.gg/xJMru7XVXY), or write an email to marius.s.klug@gmail.com!
+
+***
+2023-02-07 Peer-Reviewed by @behinger
